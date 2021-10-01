@@ -7,13 +7,14 @@ ul li>a{
 }
 ul{
     border: 1px solid black;
+    width:fit-content;
     box-sizing: border-box;
     pad: -moz-element();
     font-size: larger;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     line-height: 50px;
-    
+
     @media screen and (max-width:600px) {
         background-color:yellow;
         

@@ -47,9 +47,9 @@ click on new site git
 
 2.pick a repository
 
-go for configure and then two options
+1.connect to git provider
 
-   -select one option your convinient
+2.pick a repository
 
     1.all repository
 

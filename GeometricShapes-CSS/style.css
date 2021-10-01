@@ -4,3 +4,22 @@
     flex-direction: column;
     justify-content: space-around;
 }
+img{
+    width:100px;
+    height:80px;
+}
+table, th, td {
+    border:1px solid black;
+    text-align: center;
+  }
+ a{
+     text-decoration: none;
+     font-size: medium;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-weight: 600;
+     color: brown;
+     text-transform: capitalize;
+ }
+ a:hover{
+     background-color: chartreuse;
+ } 

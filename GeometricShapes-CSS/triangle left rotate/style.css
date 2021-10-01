@@ -1,0 +1,7 @@
+#triangleLeft{
+    width:0px;
+    height:0px;
+    border-bottom:60px solid transparent;
+    border-top:60px solid transparent;
+    border-right:100px solid pink;
+  }

@@ -1,0 +1,7 @@
+#triangleRight{
+    width:0px;
+    height:0px;
+    border-top:60px solid transparent;
+    border-bottom:60px solid transparent;
+    border-left:100px solid blue;
+  }
